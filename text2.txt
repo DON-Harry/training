@@ -1,9 +1,2 @@
 This is a new file 
 with two lines of text
-The new features are added in this file
-12
-323
-12
-
-
-212
